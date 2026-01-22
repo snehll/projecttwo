@@ -371,21 +371,21 @@ export default function Home() {
                       trust. Founded in 2007 as a small player in international
                       trade, the company has grown into a global team that
                       connects factories in the United States and Europe with
-                      customers in Russia and the CIS, delivering complex
-                      equipment exactly where it is needed. Over fifteen years
-                      and more than 10,000 shipments, the team has developed a
-                      distinctive way of working that combines technical
-                      precision with respect for people and their time.
-                      Transparent terms are the norm, partners’ reputations are
-                      treated with care, investment is made in modern tracking
-                      technologies and staff are trained in the languages and
-                      standards of the countries they work with. The company’s
-                      goal is to make the purchase of industrial equipment
-                      simple and safe. Clients do not waste time searching for
-                      suppliers or preparing paperwork. They receive trusted
-                      brands, fair pricing and logistics without surprises, all
-                      backed by the personal responsibility of a manager who
-                      oversees the project from first inquiry to delivery.
+                      customers, delivering complex equipment exactly where it
+                      is needed. Over fifteen years and more than 10,000
+                      shipments, the team has developed a distinctive way of
+                      working that combines technical precision with respect for
+                      people and their time. Transparent terms are the norm,
+                      partners’ reputations are treated with care, investment is
+                      made in modern tracking technologies and staff are trained
+                      in the languages and standards of the countries they work
+                      with. The company’s goal is to make the purchase of
+                      industrial equipment simple and safe. Clients do not waste
+                      time searching for suppliers or preparing paperwork. They
+                      receive trusted brands, fair pricing and logistics without
+                      surprises, all backed by the personal responsibility of a
+                      manager who oversees the project from first inquiry to
+                      delivery.
                     </Typography>
                     <Button
                       onClick={() => scrollToSection("contact")}
