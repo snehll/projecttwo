@@ -368,7 +368,7 @@ export default function Home() {
                       paragraph
                       textAlign={isMobile ? "justify" : "left"}>
                       Every container and every contract carries a story of
-                      trust. Founded in 2007 as a small player in international
+                      trust. Founded in 2024 as a small player in international
                       trade, the company has grown into a global team that
                       connects factories in the United States and Europe with
                       customers, delivering complex equipment exactly where it
