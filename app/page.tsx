@@ -573,8 +573,8 @@ export default function Home() {
                   mx: "auto",
                 }}>
                 <Typography paragraph>
-                  <b>Address</b>: Cukurcayir Mah. Yedikaldirim Cad. Binbir Evler
-                  R Blok No: 58 R / 34 Ortahisar / Trabzon / 61030
+                  <b>Address</b>: Kozyatagi Mah. Kaya Sultan Sk. Hayriye Is Merkezi
+No: 83 Ic Kapi No: 3 Kadikoy / ISTANBUL
                 </Typography>
                 <Typography paragraph>
                   <b>Email </b>: info@nuroverseas.com
