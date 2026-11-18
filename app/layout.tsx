@@ -21,6 +21,11 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+export const metadata: Metadata = {
+  metadataBase: new URL("https://nuroverseas.com"),
+  alternates: { canonical: "/" },
+};
+
 // export const metadata = {
 //   title: "NUR OVERSEAS PROFESYONEL TEKNOLOJIK YATIRIMLAR OTOMOTIV TİCARET LİMİTED ŞİRKETİ",
 //   description: "Your trusted partner for industrial equipment and spare parts.",
