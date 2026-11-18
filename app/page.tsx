@@ -372,8 +372,8 @@ export default function Home() {
                       trade, the company has grown into a global team that
                       connects factories in the United States and Europe with
                       customers, delivering complex equipment exactly where it
-                      is needed. Over fifteen years and more than 10,000
-                      shipments, the team has developed a distinctive way of
+                      is needed. Through more than 10,000 shipments, the team
+                      has developed a distinctive way of
                       working that combines technical precision with respect for
                       people and their time. Transparent terms are the norm,
                       partners’ reputations are treated with care, investment is
@@ -466,15 +466,15 @@ export default function Home() {
                       paragraph
                       textAlign={isMobile ? "justify" : "left"}>
                       Search and procurement of equipment and components on a
-                      turnkey basis Consulting on customs and certification with
-                      support in preparing documentation Flexible financial
-                      arrangements including agency agreements, mirror
-                      contracts, acceptance of payments in rubles and execution
-                      of international transfers A dedicated manager who
+                      turnkey basis. Consulting on customs and certification with
+                      support in preparing documentation. Flexible financial
+                      arrangements, including agency agreements, mirror
+                      contracts and international transfers. A dedicated manager who
                       supervises each transaction from the first request to
                       delivery Equipment A broad range of industrial equipment
-                      from generators and compressors to specialised pumps and
-                      components. Supplies only from verified brands with
+                      from generators and compressors to specialised pumps,
+                      components and equipment for the printing industry.
+                      Supplies only from verified brands with
                       documented quality. Logistics Solutions Global
                       organisation of transport, insurance, route optimisation
                       and full control at every stage. Clients receive a clear
@@ -494,7 +494,9 @@ export default function Home() {
                       - Compressors
                       <br />
                       - Pumps
-                      <br />- Heat Exchangers
+                      <br />
+                      - Heat Exchangers
+                      <br />- Printing Industry Equipment
                     </Typography>
                     <Button
                       onClick={() => scrollToSection("contact")}
